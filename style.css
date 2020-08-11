@@ -1,0 +1,15 @@
+body {
+  padding: 30px;
+  background-color: #fccff0;
+  font-family: "Indie Flower";
+}
+
+img {
+  -webkit-box-shadow: -36px 18px 5px 0px rgba(207,131,207,1);
+-moz-box-shadow: -36px 18px 5px 0px rgba(207,131,207,1);
+box-shadow: -36px 18px 5px 0px rgba(207,131,207,1);
+}
+
+.btm-custom {
+  background-color: #fff291;
+}
